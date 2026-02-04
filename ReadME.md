@@ -6,4 +6,8 @@ Decisions which are final should be signed off by decision makers and should be 
 the initial decisions visible to the used should be priority basis or day and time basis.
 Eisenhower Matrix can be an underlaying factor for decision making process
 decisions should have comments so that individuals can put in new perspectives and ideas to the decision making process.
-it should also be possible to have a flat heirarical structure and decision making capabilities within and signing off on these.
+it should also be possible to have a flat hierarchical structure and decision making capabilities within and signing off on these.
+The user interface should have windows within a decision aking process for suggested visualizations , for example a card for say movies or restraunts and so on.
+Flash card interface is a probable case for switching between probable decisions within one decision making.
+Should have naming and nomenclatures which are easier to understand even for a new user
+Decisions and solutions should should able to other decisions with a linked decision status and priority or importance and so on.
