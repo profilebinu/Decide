@@ -6,3 +6,4 @@ Decisions which are final should be signed off by decision makers and should be 
 the initial decisions visible to the used should be priority basis or day and time basis.
 Eisenhower Matrix can be an underlaying factor for decision making process
 decisions should have comments so that individuals can put in new perspectives and ideas to the decision making process.
+it should also be possible to have a flat heirarical structure and decision making capabilities within and signing off on these.
